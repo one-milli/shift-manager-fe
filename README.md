@@ -1,2 +1,0 @@
-# shift-manager-fe
-test
